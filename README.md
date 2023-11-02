@@ -23,5 +23,5 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{daviemanuels}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tiago-forward}/count.svg" /></p> 
 <br></div>
