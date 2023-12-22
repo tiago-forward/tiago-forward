@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil
 
-#### Atualmente estudando a base do HTML, CSS e JavaScript! 🖥️🖱️👨‍💻
+#### Desenvolvedor Front-end Junior | HTML | CSS | JavaScript 🖥️🖱️👨‍💻
  <div>
    <a href="https://github.com/tiago-forward">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-forward&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
