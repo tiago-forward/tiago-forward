@@ -14,12 +14,14 @@
     
 ## 💻 Minhas Hard-Skills
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+ <br>
   <img align="center" alt="Figma" height="32" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" />
   <img align="center" alt="Git" height="32" width="40" src="https://cdn.simpleicons.org/git" />
   <img align="center" alt="HTML5" height="32" width="40" src="https://cdn.simpleicons.org/html5" />
   <img align="center" alt="CSS3" height="32" width="40" src="https://cdn.simpleicons.org/css3" />
   <img align="center" alt="JavaScript" height="32" width="40" src="https://cdn.simpleicons.org/javascript" />
+  <img align="center" alt="Angular" height="32" width="40" src="https://cdn.simpleicons.org/angular/ff4040" />
 <br>
 
  ### 💻 Tecnologias que pretendo estudar
@@ -27,7 +29,6 @@
   <img align="center" alt="Redux" height="32" width="40" src="https://cdn.simpleicons.org/redux/eeeeee/3e4754" />
   <img align="center" alt="NodeJS" height="32" width="40" src="https://cdn.simpleicons.org/node.js/eeeeee/3e4754" />
   <img align="center" alt="TypeScript" height="32" width="40" src="https://cdn.simpleicons.org/typescript/eeeeee/3e4754" />
-  <img align="center" alt="Angular" height="32" width="40" src="https://cdn.simpleicons.org/angular/eeeeee/3e4754" />
 </div>
 
 <br>
