@@ -2,7 +2,7 @@
 
 # Bem-vindo(a) ao meu perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> sou Desenvolvedor Front-end 🖥️🖱️👨‍💻
 
-#### Sou apaixonado por computadores desde os meus 12 anos. Me chamo Tiago, tenho 25 anos, e durante minha formação em Análise e Desenvolvimento de Sistemas, tive a oportunidade de conhecer a programação, que tem se tornado cada vez mais apaixonante para mim. Quero me tornar um bom programador e estou sempre aberto, buscando adquirir novos conhecimentos. Busco oportunidades em Estágio, Treinee ou Desenvolvedor Júnior, também estou aberto em aprender qualquer linguagem que a mim for sugerido pela empresa em que eu atuar. Sigo aprimorando meus conhecimentos em HTML, CSS e JavaScript e pretendo estudar em seguida React, Redux e TypeScript.
+#### Sou apaixonado por computadores desde os meus 12 anos. Durante minha formação em Análise e Desenvolvimento de Sistemas, tive a oportunidade de conhecer a programação, que tem se tornado cada vez mais apaixonante para mim. Quero me tornar um bom programador e estou sempre aberto, buscando adquirir novos conhecimentos. Busco oportunidades em Estágio, Treinee ou Desenvolvedor Júnior, também estou aberto em aprender qualquer linguagem que a mim for sugerido pela empresa em que eu atuar. Sigo aprimorando meus conhecimentos em HTML, CSS, JavaScript e React, pretendo estudar em seguida Redux e TypeScript.
 
 ## ⚡ Status do Github
 
