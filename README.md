@@ -54,6 +54,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{tiago-forward}/count.svg" /></p> 
 <br></div>
 
-![snake gif](https://github.com/tiago-forward/tiago-forward/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/tiago-forward/tiago-forward/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![](logo-barra.png)
