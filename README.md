@@ -6,7 +6,7 @@
 
 <div align="center">
 
- #### Sou apaixonado por computadores desde os meus 12 anos. Durante minha formação em Análise e Desenvolvimento de Sistemas, tive a oportunidade de conhecer a programação, que tem se tornado cada vez mais apaixonante para mim. Quero me tornar um bom programador e estou sempre aberto, buscando adquirir novos conhecimentos. Busco oportunidades em Estágio, Treinee ou Desenvolvedor Júnior, também estou aberto em aprender qualquer linguagem que a mim for sugerido pela empresa em que eu atuar. Sigo aprimorando meus conhecimentos em HTML, CSS, JavaScript e React, estou aprendendo também TypeScript e Tailwind, pretendo estudar depois Redux e Nextjs.
+ #### Sou apaixonado por computadores desde os meus 12 anos. Durante minha formação em Análise e Desenvolvimento de Sistemas, tive a oportunidade de conhecer a programação, que tem se tornado cada vez mais apaixonante para mim. Quero me tornar um bom programador e estou sempre aberto, buscando adquirir novos conhecimentos. Busco oportunidades em Estágio, Treinee ou Desenvolvedor Júnior, também estou aberto em aprender qualquer linguagem que a mim for sugerido pela empresa em que eu atuar. Sigo especializando em React, e estou estudando React + TypeScript, pretendo estudar depois Redux e Nextjs.
 
 </div>
 
@@ -37,6 +37,7 @@
   <img align="center" alt="JavaScript" height="32" width="40" src="https://cdn.simpleicons.org/javascript" />
   <img align="center" alt="React" height="32" width="40" src="https://cdn.simpleicons.org/react" />
   <img align="center" alt="React" height="32" width="40" src="https://cdn.simpleicons.org/styledcomponents" />
+  <img align="center" alt="TypeScript" height="32" width="40" src="https://cdn.simpleicons.org/tailwindcss" />
  <br>
 
  <div align="left">
@@ -46,7 +47,6 @@
  </div>
  
   <img align="center" alt="Figma" height="32" width="40" src="https://cdn.simpleicons.org/figma" />
-  <img align="center" alt="TypeScript" height="32" width="40" src="https://cdn.simpleicons.org/tailwindcss" />
   <img align="center" alt="TypeScript" height="32" width="40" src="https://cdn.simpleicons.org/typescript" />
   
  </div>
