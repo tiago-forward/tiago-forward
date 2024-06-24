@@ -6,7 +6,7 @@
 
 <div align="center">
 
- #### Sou apaixonado por computadores desde os meus 12 anos de idade. Me formei em Análise e Desenvolvimento de Sistemas e sigo em busca de me tornar um bom programador e estou sempre aberto, buscando adquirir novos conhecimentos. Busco oportunidades em Estágio, Treinee ou Desenvolvedor Júnior, também estou aberto em aprender qualquer linguagem que a mim for sugerido. Sigo especializando em ReactJS e NextJS, e estou estudando TypeScript, pretendo conhecer e estudar depois Redux e NodeJS.
+ #### Sou formado em Análise e Desenvolvimento de Sistemas e sigo em busca de me tornar um bom programador e estou sempre aberto, buscando adquirir novos conhecimentos. Sigo especializando em ReactJS e NextJS, e estou estudando TypeScript, planejo estudar e me aprofundar em Redux e NodeJS.
 
 </div>
 
