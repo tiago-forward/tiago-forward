@@ -86,9 +86,16 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=D83B7D&&color:141321)](https://www.linkedin.com/in/tiago-lacerda-devfrontend/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=D83B7D&color:141321)](https://www.instagram.com/lacerda_forward/)
 
+<div>
+ ## 🏆 GitHub Trophies
+ 
+ ![](https://github-profile-trophy.vercel.app/?username=tiago-forward&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tiago-forward}/count.svg" /></p> 
-<br></div>
+ <br><p align="centre"><b>Visitors Count</b></p>  
+ <p align="center"><img align="center" src="https://profile-counter.glitch.me/{tiago-forward}/count.svg" /></p> 
+ <br>
+</div>
 
 ![](logo-barra.png)
