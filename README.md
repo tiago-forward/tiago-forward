@@ -6,7 +6,7 @@
 
 <div align="center">
 
- #### Sou formado em Análise e Desenvolvimento de Sistemas e sigo em busca de me tornar um bom programador e estou sempre aberto, buscando adquirir novos conhecimentos. Sigo especializando em ReactJS e NextJS, e estou estudando TypeScript, planejo estudar e me aprofundar em Redux e NodeJS.
+ #### Sou formado em Análise e Desenvolvimento de Sistemas e sigo em busca de me tornar um bom programador e estou sempre aberto buscando adquirir novos conhecimentos. Sigo especializando em ReactJS e NextJS, e estou estudando Node.js.
 
 </div>
 
@@ -35,6 +35,7 @@
   <img align="center" alt="HTML5" height="32" width="40" src="https://cdn.simpleicons.org/html5" />
   <img align="center" alt="CSS3" height="32" width="40" src="https://cdn.simpleicons.org/css3" />
   <img align="center" alt="JavaScript" height="32" width="40" src="https://cdn.simpleicons.org/javascript" />
+  <img align="center" alt="TypeScript" height="32" width="40" src="https://cdn.simpleicons.org/typescript" />
   <img align="center" alt="React" height="32" width="40" src="https://cdn.simpleicons.org/react" />
   <img align="center" alt="React" height="32" width="40" src="https://cdn.simpleicons.org/styledcomponents" />
   <img align="center" alt="TypeScript" height="32" width="40" src="https://cdn.simpleicons.org/tailwindcss" />
@@ -47,7 +48,7 @@
 
  </div>
  
-  <img align="center" alt="TypeScript" height="32" width="40" src="https://cdn.simpleicons.org/typescript" />
+  <img align="center" alt="NodeJS" height="32" width="40" src="https://cdn.simpleicons.org/node.js" />
   
  </div>
  
@@ -57,7 +58,6 @@
   ## 💻 Pretendo estudar
  
   <img align="center" alt="Redux" height="32" width="40" src="https://cdn.simpleicons.org/redux/eeeeee/3e4754" />
-  <img align="center" alt="NodeJS" height="32" width="40" src="https://cdn.simpleicons.org/node.js/eeeeee/3e4754" />
   
  </div>
 
