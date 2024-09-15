@@ -1,4 +1,4 @@
-![](logo-barra.png)
+![](design-capa.png)
 
 <div align="center">
  
@@ -97,5 +97,3 @@
  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{tiago-forward}/count.svg" /></p> 
  <br>
 </div>
-
-![](logo-barra.png)
