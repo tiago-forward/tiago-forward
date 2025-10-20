@@ -1,19 +1,26 @@
 ![](design-capa.png)
 
 <div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D83B7D&center=falso&vCenter=falso&repeat=falso&random=falso&width=500&height=70&lines=Bem+vindo+ao+meu+perfil+%E2%9C%A8;Desenvolvedor+Júnior+%F0%9F%96%A5%EF%B8%8F%F0%9F%96%B1%EF%B8%8F%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF7E5&center=true&width=435&lines=Junior+Frontend+Developer+%F0%9F%96%A5%EF%B8%8F%F0%9F%96%B1%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
-## 👨‍💻 Sobre mim
+<div align="center">
 
-### Sou **Desenvolvedor Júnior**, formado em **Análise e Desenvolvimento de Sistemas** e atuo criando interfaces web modernas, responsivas e de alta performance.  
-### Tenho experiência sólida com **ReactJS, NextJS, Styled Components e TailwindCSS**, aplicando boas práticas de componentização, consumo de APIs REST e versionamento com Git/GitHub.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&labelColor=%23000000&color=%231AF7E5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftiago-lacerda-devfrontend%2F)](https://www.linkedin.com/in/tiago-lacerda-devfrontend/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&labelColor=%23000000&color=%231AF7E5&link=https%3A%2F%2Fwww.instagram.com%2Ftiago_forward%2F)](https://www.instagram.com/tiago_forward/)
 
-## 💻 Minhas Hard Skills
+</div>
+
+<p>
+I am a <strong>Junior Developer</strong>, graduated in <strong>Systems Analysis and Development</strong> and I work creating modern, responsive and high-performance web interfaces.
+</p>
+
+<h2>💻 My Hard Skills</h2>
 
 <div style="display: inline_block" align="center"><br>
+
   <img alt="Git" height="32" width="40" src="https://cdn.simpleicons.org/git" />
   <img alt="HTML5" height="32" width="40" src="https://cdn.simpleicons.org/html5" />
   <img alt="CSS" height="32" width="40" src="https://cdn.simpleicons.org/css" />
@@ -29,46 +36,57 @@
   <img alt="Knex" height="32" width="40" src="https://cdn.simpleicons.org/knex.js" />
   <img alt="Prisma" height="32" width="40" src="https://cdn.simpleicons.org/prisma" />
   <img alt="Docker" height="32" width="40" src="https://cdn.simpleicons.org/docker" />
-</div>
-
-## 📚 Atualmente aprendendo
-<div>
-  <img alt="N8n" height="32" width="40" src="https://cdn.simpleicons.org/n8n" />
-</div> 
-
-</div> 
-
-<br>
-
-<div align="left">
-  
-## 🛠️ Software e Ferramentas de desenvolvimento
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=Visual-Studio-Code&logoColor=D83B7D&color:141321)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git&logoColor=D83B7D&color:141321)
-![Git Hub](https://img.shields.io/badge/GiHub-000?style=for-the-badge&logo=GitHub&logoColor=D83B7D&color:141321)
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=Figma&logoColor=D83B7D&color:141321)
 
 </div>
 
-<br/>
-
-<div align="left">
- 
-## 📫 Minhas redes sociais atuais!
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=D83B7D&&color:141321)](mailto:devtiagoforward@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=D83B7D&&color:141321)](https://www.linkedin.com/in/tiago-lacerda-devfrontend/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=D83B7D&color:141321)](https://www.instagram.com/tiago_forward/)
-
-<div>
- ## 🏆 GitHub Trophies
- 
- ![](https://github-profile-trophy.vercel.app/?username=tiago-forward&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-</div>
+<h2>📚 Currently Learning</h2>
 
 <div align="center">
- <br><p align="centre"><b>Visitors Count</b></p>  
- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{tiago-forward}/count.svg" /></p> 
- <br>
+
+  <img alt="N8n" height="32" width="40" src="https://cdn.simpleicons.org/n8n" />
+  
+</div>
+
+<h2>🛠️ Software and Development Tools</h2>
+
+<div align="center">
+
+  <img title="Npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" />
+  <img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+</div>
+
+<h2>📊 Stats and Activity</h2>
+
+<h3 align="center">🔥 Streak Stats</h3>
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=tiago-forward&theme=tokyonight&hide_border=true&short_numbers=true"/>
+  </a>
+  <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</div>
+
+<h3 align="center">💻 GitHub Profile Stats</h3>
+
+<div align="center">
+  <a href="https://github.com/tiago-forward">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-forward&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-forward&layout=compact&langs_count=6&theme=tokyonight"/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiago-forward&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+<h2>🏆 GitHub Trophies</h2>
+
+<div>
+ 
+![](https://github-profile-trophy.vercel.app/?username=tiago-forward&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
 </div>
