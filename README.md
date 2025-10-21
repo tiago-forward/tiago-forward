@@ -86,7 +86,7 @@ I am a <strong>Junior Developer</strong>, graduated in <strong>Systems Analysis 
 <h2>🏆 GitHub Trophies</h2>
 
 <div>
- 
-![](https://github-profile-trophy.vercel.app/?username=tiago-forward&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tiago-forward&theme=tokyonight)](https://github.com/tiago-forward/github-profile-trophy)
 
 </div>
