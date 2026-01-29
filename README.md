@@ -21,18 +21,18 @@ I am a <strong>Junior Developer</strong>, graduated in <strong>Systems Analysis 
 
 <div style="display: inline_block" align="center"><br>
 
-  <img alt="Git" height="32" width="40" src="https://cdn.simpleicons.org/git" />
   <img alt="HTML5" height="32" width="40" src="https://cdn.simpleicons.org/html5" />
   <img alt="CSS" height="32" width="40" src="https://cdn.simpleicons.org/css" />
   <img alt="JavaScript" height="32" width="40" src="https://cdn.simpleicons.org/javascript" />
   <img alt="TypeScript" height="32" width="40" src="https://cdn.simpleicons.org/typescript" />
-  <img alt="React" height="32" width="40" src="https://cdn.simpleicons.org/react" />
   <img alt="Styled-Components" height="32" width="40" src="https://cdn.simpleicons.org/styledcomponents" />
   <img alt="Tailwind" height="32" width="40" src="https://cdn.simpleicons.org/tailwindcss" />
-  <img alt="Next" height="32" width="40" src="https://cdn.simpleicons.org/next.js" />
+  <img alt="React" height="32" width="40" src="https://cdn.simpleicons.org/react" />
+  <img alt="Next" height="32" width="40" src="https://cdn.simpleicons.org/next.js/ffffff" />
+  <img alt="Angular" height="32" width="40" src="https://cdn.simpleicons.org/angular/ef0759" />
   <img alt="Nodejs" height="32" width="40" src="https://cdn.simpleicons.org/node.js" />
-  <img alt="Fastify" height="32" width="40" src="https://cdn.simpleicons.org/fastify" />
-  <img alt="Express" height="32" width="40" src="https://cdn.simpleicons.org/express" />
+  <img alt="Fastify" height="32" width="40" src="https://cdn.simpleicons.org/fastify/ffffff" />
+  <img alt="Express" height="32" width="40" src="https://cdn.simpleicons.org/express/ffffff" />
   <img alt="Knex" height="32" width="40" src="https://cdn.simpleicons.org/knex.js" />
   <img alt="Prisma" height="32" width="40" src="https://cdn.simpleicons.org/prisma" />
   <img alt="Docker" height="32" width="40" src="https://cdn.simpleicons.org/docker" />
