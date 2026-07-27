@@ -68,25 +68,13 @@ I am a <strong>Junior Developer</strong>, graduated in <strong>Systems Analysis 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=tiago-forward&theme=tokyonight&hide_border=true&short_numbers=true"/>
   </a>
-  <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </div>
 
-<h3 align="center">💻 GitHub Profile Stats</h3>
+<h3 align="center">📈 Contribution Graph</h3>
 
-<div align="center">
-  <a href="https://github.com/tiago-forward">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-forward&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-forward&layout=compact&langs_count=6&theme=tokyonight"/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiago-forward&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <h2>🏆 GitHub Trophies</h2>
-
-<div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tiago-forward&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
