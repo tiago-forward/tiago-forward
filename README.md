@@ -74,7 +74,4 @@ I am a <strong>Junior Developer</strong>, graduated in <strong>Systems Analysis 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiago-forward&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
-
-<h2>🏆 GitHub Trophies</h2>
-
 </div>
