@@ -13,17 +13,19 @@
 
 </div>
 
-<div align="right">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-  <img align="right" width="340" src="https://spotify-github-profile.kittinanx.com/api/view?uid=312wwdkrhgtv5mhwuhraqssqhgq4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" />
-  </a>
-</div>
-
 ## 👨‍💻 About Me
 
-I am a **Junior Developer**, graduated in **Systems Analysis and Development** and I work creating modern, responsive and high-performance web interfaces.
+I'm a Front-end Developer with a degree in Systems Analysis and Development, experienced in building modern web applications using React, Next.js, TypeScript, and other technologies from the JavaScript ecosystem.
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+Currently, I work on digital product development, contributing to the implementation of new features, responsive interface creation, API integrations, and the continuous improvement of applications across different domains.
+
+I enjoy transforming business requirements into intuitive and efficient solutions, always focusing on clean code, componentization, reusability, scalability, and delivering great user experiences.
+
+Beyond front-end development, I have a strong interest in software architecture, Clean Architecture, Domain-Driven Design (DDD), and back-end development with technologies such as NestJS and Prisma. I'm continuously learning and expanding my knowledge to build scalable, maintainable, and well-structured applications.
+
+I'm always looking for opportunities to learn, improve my skills, and create software solutions that combine quality, performance, and great user experiences.
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312wwdkrhgtv5mhwuhraqssqhgq4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 ## 💻 My Hard Skills
 
@@ -45,14 +47,6 @@ I am a **Junior Developer**, graduated in **Systems Analysis and Development** a
   <img alt="Prisma" height="32" width="40" src="https://cdn.simpleicons.org/prisma" />
   <img alt="Docker" height="32" width="40" src="https://cdn.simpleicons.org/docker" />
 
-</div>
-
-<h2>📚 Currently Learning</h2>
-
-<div align="center">
-
-  <img alt="N8n" height="32" width="40" src="https://cdn.simpleicons.org/n8n" />
-  
 </div>
 
 <h2>🛠️ Software and Development Tools</h2>
