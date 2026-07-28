@@ -13,11 +13,19 @@
 
 </div>
 
-<p>
-I am a <strong>Junior Developer</strong>, graduated in <strong>Systems Analysis and Development</strong> and I work creating modern, responsive and high-performance web interfaces.
-</p>
+<div align="right">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+  <img align="right" width="340" src="https://spotify-github-profile.kittinanx.com/api/view?uid=312wwdkrhgtv5mhwuhraqssqhgq4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" />
+  </a>
+</div>
 
-<h2>💻 My Hard Skills</h2>
+## 👨‍💻 About Me
+
+I am a **Junior Developer**, graduated in **Systems Analysis and Development** and I work creating modern, responsive and high-performance web interfaces.
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+## 💻 My Hard Skills
 
 <div style="display: inline_block" align="center"><br>
 
