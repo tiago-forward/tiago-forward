@@ -60,18 +60,16 @@ I am a <strong>Junior Developer</strong>, graduated in <strong>Systems Analysis 
 
 </div>
 
-<h2>📊 Stats and Activity</h2>
-
-<h3 align="center">🔥 Streak Stats</h3>
+## 📈 Contribution Activity
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=tiago-forward&theme=tokyonight&hide_border=true&short_numbers=true"/>
-  </a>
+  
+  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=tiago-forward&theme=tokyonight)](https://git.io/streak-stats)
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tiago-forward&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+  
 </div>
+<div align="center">
 
-<h3 align="center">📈 Contribution Graph</h3>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiago-forward&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiago-forward&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
 </div>
