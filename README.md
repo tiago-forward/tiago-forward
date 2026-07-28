@@ -65,7 +65,6 @@ I am a <strong>Junior Developer</strong>, graduated in <strong>Systems Analysis 
 <div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=tiago-forward&theme=tokyonight)](https://git.io/streak-stats)
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tiago-forward&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
   
 </div>
 <div align="center">
