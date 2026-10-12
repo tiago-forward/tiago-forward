@@ -31,7 +31,7 @@ I'm always looking for opportunities to learn, improve my skills, and create sof
 ## 🚀 Featured Projects
 
 - **[VueDrama](https://vuedrama.com.br/)**: a social network for drama fans, with reviews, watchlists, themed lists, friendships, chat, and a public profile. It is not a streaming platform. Built with React, Next.js, TypeScript, Tailwind CSS, NestJS, Prisma, and PostgreSQL. ([Instagram](https://www.instagram.com/vuedrama/))
-- **[Portfolio](https://github.com/tiago-forward/portfolio-tiago-forward)**: my one-page portfolio, built with React, TypeScript, and Vite.
+- **[Portfolio](https://portfolio-tiago-forward.vercel.app/)**: my one-page portfolio, built with React, TypeScript, and Vite. ([Code](https://github.com/tiago-forward/portfolio-tiago-forward))
 - **[My Legend Portfolio](https://github.com/tiago-forward/my-legend-portfolio)**: a previous portfolio that recreates the League of Legends client, built with React and Tailwind CSS. ([Live](https://my-legend-portfolio-snowy.vercel.app/))
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312wwdkrhgtv5mhwuhraqssqhgq4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
